@@ -1,5 +1,7 @@
 # website-blocker
-Simple website blocker gui app built with Python and wxWidgets.
+[![Build Status](https://travis-ci.org/alexcambose/website-blocker.svg?branch=master)](https://travis-ci.org/alexcambose/website-blocker)
+
+> Simple website blocker gui app built with Python and wxWidgets.
 
 ## Installation and usage
 
@@ -27,7 +29,7 @@ cd website-bocker && sudo python3 index.py
   <summary>Windows</summary>
 
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 ### Running
 You will need to run the script as `administrator`.
