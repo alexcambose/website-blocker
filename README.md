@@ -3,6 +3,8 @@
 
 > Simple website blocker gui app built with Python and wxWidgets.
 
+<img src="ss/win10.png" width=288 /> <img src="ss/win7.png" width=288 /><img src="ss/linux-gtk.png" width=288 />
+
 ## Installation and usage
 
 *Python **3.5+** required*
